@@ -2,8 +2,6 @@ colorlog
 cython==0.29.34
 fvcore==0.1.5.post20220305
 joblib
-GPy==1.10.0
-GPyOpt
 matplotlib==3.6.3
 numexpr
 numpy==1.19.2

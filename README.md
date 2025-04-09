@@ -9,13 +9,12 @@ SPOC Active Learning
 
 #### Install dependencies
 
-If you want to use data loader by installing PyTorch, please check `install.sh`.
 The dependencies can be installed using the following command (conda required):
 ```bash
 bash install.sh
 ```
 
-If you simply want to use data api, please check `requirements.txt`.
+Or please check `requirements.txt`.
 ```bash
 pip install -r requirements.txt
 ```
