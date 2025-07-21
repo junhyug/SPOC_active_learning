@@ -19,6 +19,12 @@ Or please check `requirements.txt`.
 pip install -r requirements.txt
 ```
 
+## Data Files
+
+Place the preprocessed CSV datasets into `./datasets/files`.
+The following files are required for the current version:
+- `PE_MLtraining_v2,27_LiTFSI_PCB.csv`
+- `PE_MLtraining_v2,27_NaTFSI_PCB.csv`
 
 ## Run
 
